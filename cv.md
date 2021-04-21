@@ -18,3 +18,23 @@
 - self development
 - responsibility
 
+## Code example:
+```
+   class Person {
+    var name: String
+    var age: Int
+
+    init(name: String, age: Int) {
+        self.name = name
+        self.age = age
+    }
+}
+```
+## Experience
+* Work experience:
+    * Computer service
+    * Servers service
+    * Design and implementation of LAN
+    * Information security
+    * Work with users
+
