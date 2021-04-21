@@ -38,3 +38,10 @@
     * Information security
     * Work with users
 
+## Education:
+  * Military Academy of the Republic of Belarus (2012-2017).          Faculty: Communication and Automated Control Systems.
+  * IBA Institution (November 2018 - October 2019).                   Course: CCNA Routing&Switching
+  * The Rolling Scopes School (April 2021 - present).              Course: iOS
+
+## English level
+* Pre-Intermediate (A2)
